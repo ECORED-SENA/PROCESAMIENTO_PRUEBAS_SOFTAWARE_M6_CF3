@@ -347,7 +347,7 @@
                 .col.mb-3.mb-sm-0.texto-blanco
                   p.mb-0 Conozca más sobre opciones tecnológicas que favorecen la gestión de la información en las organizaciones. Estudie el Anexo_1_HerramientasTecnológicasParaGestionInformacion.<br>Procure llevar registro de las más destacadas, en su libreta personal de apuntes. 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_1_Herramientas_Tecnologicas_Para_GestionInformacion.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
               
