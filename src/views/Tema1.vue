@@ -868,8 +868,21 @@
                   img(src="@/assets/ilustraciones/v2.svg", alt="")
           .list__txt 
               span Programación por parejas.
-    
-        
+
+    .row.justify-content-center.align-items-center.mt-5           
+      .col-lg-10
+        .tarjeta.color-primario.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/template/icono-pdf.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0.texto-blanco
+                  p.mb-0 Para profundizar en las acciones por desarrollar en la reestructuración de un código de programa, explore el Anexo 2. Refactorizando código fuente. Procure llevar registro de los aspectos más importantes en su libreta personal de apuntes. 
+                .col-sm-auto
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Actividad_refactorizando_codigo_fuente.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download   
 </template>
 
 <script>
