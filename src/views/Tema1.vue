@@ -50,25 +50,25 @@
                   .list__item__icon
                       img(src="@/assets/ilustraciones/v1.svg", alt="")
               .list__txt 
-                  span Divulgativo: cualquier persona lo puede leer, es para el público en general.
+                  span <b>Divulgativo:</b> cualquier persona lo puede leer, es para el público en general.
             .list.mt-3
               .list__item
                   .list__item__icon
                       img(src="@/assets/ilustraciones/v1.svg", alt="")
               .list__txt 
-                  span Científico: maneja un lenguaje especializado, especifica información científica como resultado de una investigación .
+                  span <b>Científico:</b> maneja un lenguaje especializado, especifica información científica como resultado de una investigación .
             .list.mt-3
               .list__item
                   .list__item__icon
                       img(src="@/assets/ilustraciones/v1.svg", alt="")
               .list__txt 
-                  span Técnico: mantiene el nivel del tipo científico pero está enfocado en organizaciones de nivel privado o público, con un objetivo específico. 
+                  span <b>Técnico:</b> mantiene el nivel del tipo científico pero está enfocado en organizaciones de nivel privado o público, con un objetivo específico. 
             .list.mt-3
               .list__item
                   .list__item__icon
                       img(src="@/assets/ilustraciones/v1.svg", alt="")
               .list__txt 
-                  span Mixto: es usado para exponer información para el público en general como instituciones. 
+                  span <b>Mixto:</b> es usado para exponer información para el público en general como instituciones. 
 
 
       .py-3.py-md-4.bg-img-3(titulo="De acuerdo a los tipos de redacción")
@@ -83,19 +83,19 @@
                   .list__item__icon
                       img(src="@/assets/ilustraciones/v1.svg", alt="")
               .list__txt 
-                  span Analíticos: su objetivos es exponer análisis y la ratificación de acciones determinadas. 
+                  span #[b Analíticos: ]su objetivos es exponer análisis y la ratificación de acciones determinadas. 
             .list.mt-3
               .list__item
                   .list__item__icon
                       img(src="@/assets/ilustraciones/v1.svg", alt="")
               .list__txt 
-                  span Expositivos: contiene datos e información que desean ser expuestos al público. 
+                  span #[b Expositivos:] contiene datos e información que desean ser expuestos al público. 
             .list.mt-3
               .list__item
                   .list__item__icon
                       img(src="@/assets/ilustraciones/v1.svg", alt="")
               .list__txt 
-                  span Persuasivos: su narrativa busca incentivar unas bases para que el destinatario se convenza de lo expuesto. 
+                  span #[b Persuasivos:] su narrativa busca incentivar unas bases para que el destinatario se convenza de lo expuesto. 
 
 
       .py-3.py-md-4.bg-img-3(titulo="Otras clasificaciones")
@@ -164,15 +164,15 @@
             figure
               img.yoyo(src='@/assets/ilustraciones/img7.svg', alt=' ')          
         h4.text-center Incidencias detectadas
-        p La gestión de incidencias es un elemento central e importante en el proceso de calidad de software puesto que es en este punto donde se tienen en cuenta los errores (Bugs). Por lo tanto, el propósito de las incidencias detectadas es, precisamente, generar su corrección, de tal manera que sea mínimamente probable que el error se repita.
+        p La gestión de incidencias es un elemento central e importante en el proceso de calidad de #[i software] puesto que es en este punto donde se tienen en cuenta los errores (Bugs). Por lo tanto, el propósito de las incidencias detectadas es, precisamente, generar su corrección, de tal manera que sea mínimamente probable que el error se repita.
 
-      .col-md.tarjeta.color-acento-botones.bg-color-1.p-5(data-aos="slide-left")
+      .col-md.tarjeta.bg-color-blue.p-5(data-aos="slide-left")
         .row.justify-content-center.mb-4
           .col-6
             figure
               img.yoyo(src='@/assets/ilustraciones/img8.svg', alt=' ')          
         h4.text-center Ciclo de vida de incidencias
-        p Un sistema de gestión de incidentes debe manejar los errores de software teniendo en cuenta el siguiente proceso:
+        p Un sistema de gestión de incidentes debe manejar los errores de #[i software] teniendo en cuenta el siguiente proceso:
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")
       .col-lg-10.t-1-row-color-1.p-5.pt-4.row-radius-1  
@@ -184,7 +184,7 @@
       .col-lg-10.p-0        
         figcaption Nota. La Oficina de Proyectos de Informática (2016).           
 
-    p(data-aos="slide-down").mt-5 El proceso de manejo de errores de software, para proyectos de software en fase de desarrollo (no en ambiente de producción), presenta la siguiente secuencia: 
+    p(data-aos="slide-down").mt-5 El proceso de manejo de errores de #[i software], para proyectos de #[i software] en fase de desarrollo (no en ambiente de producción), presenta la siguiente secuencia: 
     .row.justify-content-center.align-items-center.mt-5(data-aos="slide-right")
       .col-lg-10.p-5.t1-col-color-1    
         .list
@@ -736,7 +736,7 @@
                 span En la evaluación se realiza un informe expresando las ventajas y desventajas de los resultados obtenidos del plan de mejora.
     .row.justify-content-start.align-items-center.mt-5
       .col-lg-4
-        p.color-1-t1.mb-0.p-3.ps-4(data-aos="slide-right") #[b Refactoring] (refactorización)
+        p.color-1-t1.mb-0.p-3.ps-4(data-aos="slide-right") #[b #[i Refactoring] (refactorización)]
 
     .row.justify-content-start.align-items-end.mt-5           
       .col-lg-7.p-t1-color-1.p-3.pe-5(data-aos="slide-down")
@@ -834,7 +834,7 @@
 
     .row.justify-content-start.align-items-center.mt-5
       .col-lg-4
-        p.color-1-t1.mb-0.p-3.ps-4(data-aos="slide-right") Refactorización y metodología ágil
+        p.color-1-t1.mb-0.p-3.ps-4(data-aos="slide-right") #[b Refactorización y metodología ágil]
         
     p(data-aos="slide-down").mt-5 La refactorización tiene amplia relación con las metodologías ágiles donde, en algunas, su producto fundamental es el código y están diseñadas, básicamente, para poder soportar los cambios que recibe el código.
 

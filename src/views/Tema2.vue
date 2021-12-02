@@ -219,14 +219,14 @@
         .row.justify-content-center.align-items-center
           .col-5
             h5 Recolección de datos en tiempo real
-            p En la era digital se cuenta con herramientas de fácil acceso a la información en tiempo real y, casi, de forma inmediata. Ello facilita a las organizaciones, tomar decisiones o acciones de forma rápida, esto va de la mano con tecnologías que están en la nube y software especializado, significa que se tendrá el control operacional y capacidad de diseño de alto rendimiento.    
+            p En la era digital se cuenta con herramientas de fácil acceso a la información en tiempo real y, casi, de forma inmediata. Ello facilita a las organizaciones, tomar decisiones o acciones de forma rápida, esto va de la mano con tecnologías que están en la nube y #[i software] especializado, significa que se tendrá el control operacional y capacidad de diseño de alto rendimiento.    
           .col-5    
             img.img-t.img-a(src='@/assets/ilustraciones/img33.png', alt='') 
 
         .row.justify-content-center.align-items-center
           .col-5
             h5 Evitar saturación
-            p Una característica clave es poder categorizar y generar una jerarquía de la data; si bien es requerido y casi indispensable tener herramientas de software y herramientas en la nube para su gestión, no sería útil si está en desorden, para ello es importante mantenerlas ordenadas y así  poder tomar decisiones acertadas. La saturación se evita con una buena gestión de la jerarquización y clasificación. 
+            p Una característica clave es poder categorizar y generar una jerarquía de la data; si bien es requerido y casi indispensable tener herramientas de #[i software] y herramientas en la nube para su gestión, no sería útil si está en desorden, para ello es importante mantenerlas ordenadas y así  poder tomar decisiones acertadas. La saturación se evita con una buena gestión de la jerarquización y clasificación. 
     
           .col-5    
             img.img-t.img-a(src='@/assets/ilustraciones/img34.png', alt='') 
@@ -240,8 +240,8 @@
 
         .row.justify-content-center.align-items-center
           .col-5
-            h5 Generación de checklist
-            p En ocasiones, el personal de diferentes áreas en las organizaciones cuentan con suficiente información sobre el negocio, pero esta data es desaprovechada ya que no hay lineamientos claros para convertirla en información y convertir, a su vez, esta información en líneas de acción. Importa contar con una herramienta que permita tener un checklist con el cual se consideren los elementos necesarios y las acciones para la recolección de información.   
+            h5 Generación de #[i checklist]
+            p En ocasiones, el personal de diferentes áreas en las organizaciones cuentan con suficiente información sobre el negocio, pero esta data es desaprovechada ya que no hay lineamientos claros para convertirla en información y convertir, a su vez, esta información en líneas de acción. Importa contar con una herramienta que permita tener un #[i checklist] con el cual se consideren los elementos necesarios y las acciones para la recolección de información.   
           .col-5    
             img.img-t.img-a(src='@/assets/ilustraciones/img36.png', alt='') 
 
@@ -269,14 +269,14 @@
       .row.justify-content-center.align-items-center.mt-5.d-block.d-lg-none.br-color-2
         .col-lg-6
           h5 Recolección de datos en tiempo real
-          p En la era digital se cuenta con herramientas de fácil acceso a la información en tiempo real y, casi, de forma inmediata. Ello facilita a las organizaciones, tomar decisiones o acciones de forma rápida, esto va de la mano con tecnologías que están en la nube y software especializado, significa que se tendrá el control operacional y capacidad de diseño de alto rendimiento.    
+          p En la era digital se cuenta con herramientas de fácil acceso a la información en tiempo real y, casi, de forma inmediata. Ello facilita a las organizaciones, tomar decisiones o acciones de forma rápida, esto va de la mano con tecnologías que están en la nube y #[i software] especializado, significa que se tendrá el control operacional y capacidad de diseño de alto rendimiento.    
         .col-lg-6    
           img.img-t.img-a(src='@/assets/ilustraciones/img33.png', alt='') 
 
       .row.justify-content-center.align-items-center.mt-5.d-block.d-lg-none.br-color-2
         .col-lg-6
           h5 Evitar saturación
-          p Una característica clave es poder categorizar y generar una jerarquía de la data; si bien es requerido y casi indispensable tener herramientas de software y herramientas en la nube para su gestión, no sería útil si está en desorden, para ello es importante mantenerlas ordenadas y así  poder tomar decisiones acertadas. La saturación se evita con una buena gestión de la jerarquización y clasificación. 
+          p Una característica clave es poder categorizar y generar una jerarquía de la data; si bien es requerido y casi indispensable tener herramientas de #[i software] y herramientas en la nube para su gestión, no sería útil si está en desorden, para ello es importante mantenerlas ordenadas y así  poder tomar decisiones acertadas. La saturación se evita con una buena gestión de la jerarquización y clasificación. 
 
         .col-lg-6    
           img.img-t.img-a(src='@/assets/ilustraciones/img34.png', alt='') 
@@ -290,8 +290,8 @@
 
       .row.justify-content-center.align-items-center.mt-5.d-block.d-lg-none.br-color-2
         .col-lg-6
-          h5 Generación de checklist
-          p En ocasiones, el personal de diferentes áreas en las organizaciones cuentan con suficiente información sobre el negocio, pero esta data es desaprovechada ya que no hay lineamientos claros para convertirla en información y convertir, a su vez, esta información en líneas de acción. Importa contar con una herramienta que permita tener un checklist con el cual se consideren los elementos necesarios y las acciones para la recolección de información.   
+          h5 Generación de #[i checklist]
+          p En ocasiones, el personal de diferentes áreas en las organizaciones cuentan con suficiente información sobre el negocio, pero esta data es desaprovechada ya que no hay lineamientos claros para convertirla en información y convertir, a su vez, esta información en líneas de acción. Importa contar con una herramienta que permita tener un #[i checklist] con el cual se consideren los elementos necesarios y las acciones para la recolección de información.   
         .col-lg-6    
           img.img-t.img-a(src='@/assets/ilustraciones/img36.png', alt='') 
 
@@ -362,9 +362,9 @@
             :style="{'background-image': `url(${require('@/assets/ilustraciones/img41.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p El proceso de recolección de información, en una organización, suele llegar a ser complejo, más si son entidades que cuentan con muchos trabajadores y sedes, por lo que se requiere en muchas ocasiones de gran capacidad funcional.<br><br>
-            p De esta gestión depende el correcto funcionamiento de las áreas, las cuales pueden ser de abastecimiento de producción y manejo de inventarios, entre otros.<br><br>
-            p Las siguientes, son técnicas que permiten mejorar la capacidad de gestión de datos e información:              
+            p Una copia de seguridad es un proceso en el cual se realiza la duplicación de la información existente, esta copia sirve como respaldo de la información original. Dado el caso en que la información original llegue a perderse o dañarse, se recupera por medio de la copia generada.<br><br>
+            p Por otro lado, para las organizaciones representa un salvavidas del negocio, ya que estos elementos garantizan la continuidad y confianza de los clientes, de lo contrario es muy posible que se genere una imagen negativa y desconfianza.<br><br>
+            p A continuación, se presentan algunas generalidades de suma importancia en lo referente a copias de seguridad:              
 
     .row.justify-content-center.align-items-center.mt-5           
       .col-lg-12.d-none.d-lg-block  
@@ -478,7 +478,7 @@
                       .list__item__icon
                           img(src="@/assets/ilustraciones/v4.svg", alt="")
                   .list__txt 
-                      span D2D2C, este modelo es similar al anterior pero la segunda copia de liberación se realiza hacia un respaldo en cloud. 
+                      span D2D2C, este modelo es similar al anterior pero la segunda copia de liberación se realiza hacia un respaldo en #[i cloud]. 
 
                 .list.mt-3
                   .list__item
